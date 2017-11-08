@@ -1,0 +1,28 @@
+C:\Users\HiTechS\Documents\Visual Studio 2017\Projects\spa-webapi-angularjs-master\HomeCinema.Services\bin\Debug\HomeCinema.Services.dll
+C:\Users\HiTechS\Documents\Visual Studio 2017\Projects\spa-webapi-angularjs-master\HomeCinema.Services\bin\Debug\HomeCinema.Services.pdb
+C:\Users\HiTechS\Documents\Visual Studio 2017\Projects\spa-webapi-angularjs-master\HomeCinema.Services\bin\Debug\HomeCinema.Data.dll
+C:\Users\HiTechS\Documents\Visual Studio 2017\Projects\spa-webapi-angularjs-master\HomeCinema.Services\bin\Debug\HomeCinema.Entities.dll
+C:\Users\HiTechS\Documents\Visual Studio 2017\Projects\spa-webapi-angularjs-master\HomeCinema.Services\bin\Debug\EntityFramework.dll
+C:\Users\HiTechS\Documents\Visual Studio 2017\Projects\spa-webapi-angularjs-master\HomeCinema.Services\bin\Debug\MockData.dll
+C:\Users\HiTechS\Documents\Visual Studio 2017\Projects\spa-webapi-angularjs-master\HomeCinema.Services\bin\Debug\HomeCinema.Data.pdb
+C:\Users\HiTechS\Documents\Visual Studio 2017\Projects\spa-webapi-angularjs-master\HomeCinema.Services\bin\Debug\HomeCinema.Data.dll.config
+C:\Users\HiTechS\Documents\Visual Studio 2017\Projects\spa-webapi-angularjs-master\HomeCinema.Services\bin\Debug\HomeCinema.Entities.pdb
+C:\Users\HiTechS\Documents\Visual Studio 2017\Projects\spa-webapi-angularjs-master\HomeCinema.Services\bin\Debug\EntityFramework.xml
+C:\Users\HiTechS\Documents\Visual Studio 2017\Projects\spa-webapi-angularjs-master\HomeCinema.Services\obj\Debug\HomeCinema.Services.csprojResolveAssemblyReference.cache
+C:\Users\HiTechS\Documents\Visual Studio 2017\Projects\spa-webapi-angularjs-master\HomeCinema.Services\obj\Debug\HomeCinema.Services.csproj.CoreCompileInputs.cache
+C:\Users\HiTechS\Documents\Visual Studio 2017\Projects\spa-webapi-angularjs-master\HomeCinema.Services\obj\Debug\HomeCinema.Services.dll
+C:\Users\HiTechS\Documents\Visual Studio 2017\Projects\spa-webapi-angularjs-master\HomeCinema.Services\obj\Debug\HomeCinema.Services.pdb
+C:\Users\HiTechS\Documents\Visual Studio 2017\Projects\HomeCinema Backup\HomeCinema.Services\bin\Debug\HomeCinema.Services.dll
+C:\Users\HiTechS\Documents\Visual Studio 2017\Projects\HomeCinema Backup\HomeCinema.Services\bin\Debug\HomeCinema.Services.pdb
+C:\Users\HiTechS\Documents\Visual Studio 2017\Projects\HomeCinema Backup\HomeCinema.Services\bin\Debug\HomeCinema.Data.dll
+C:\Users\HiTechS\Documents\Visual Studio 2017\Projects\HomeCinema Backup\HomeCinema.Services\bin\Debug\HomeCinema.Entities.dll
+C:\Users\HiTechS\Documents\Visual Studio 2017\Projects\HomeCinema Backup\HomeCinema.Services\bin\Debug\EntityFramework.dll
+C:\Users\HiTechS\Documents\Visual Studio 2017\Projects\HomeCinema Backup\HomeCinema.Services\bin\Debug\MockData.dll
+C:\Users\HiTechS\Documents\Visual Studio 2017\Projects\HomeCinema Backup\HomeCinema.Services\bin\Debug\HomeCinema.Data.pdb
+C:\Users\HiTechS\Documents\Visual Studio 2017\Projects\HomeCinema Backup\HomeCinema.Services\bin\Debug\HomeCinema.Data.dll.config
+C:\Users\HiTechS\Documents\Visual Studio 2017\Projects\HomeCinema Backup\HomeCinema.Services\bin\Debug\HomeCinema.Entities.pdb
+C:\Users\HiTechS\Documents\Visual Studio 2017\Projects\HomeCinema Backup\HomeCinema.Services\bin\Debug\EntityFramework.xml
+C:\Users\HiTechS\Documents\Visual Studio 2017\Projects\HomeCinema Backup\HomeCinema.Services\obj\Debug\HomeCinema.Services.csprojResolveAssemblyReference.cache
+C:\Users\HiTechS\Documents\Visual Studio 2017\Projects\HomeCinema Backup\HomeCinema.Services\obj\Debug\HomeCinema.Services.csproj.CoreCompileInputs.cache
+C:\Users\HiTechS\Documents\Visual Studio 2017\Projects\HomeCinema Backup\HomeCinema.Services\obj\Debug\HomeCinema.Services.dll
+C:\Users\HiTechS\Documents\Visual Studio 2017\Projects\HomeCinema Backup\HomeCinema.Services\obj\Debug\HomeCinema.Services.pdb
